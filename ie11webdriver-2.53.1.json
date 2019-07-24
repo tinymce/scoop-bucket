@@ -4,7 +4,7 @@
     "bin": "IEDriverServer.exe",
     "architecture": {
         "64bit": {
-            "url": "https://selenium-release.storage.googleapis.com/2.53/IEDriverServer_x64_2.53.1.zip",
+            "url": "https://selenium-release.storage.googleapis.com/2.53/IEDriverServer_Win32_2.53.1.zip",
             "hash": "9a28d0b1b64c374429222d42964ad976686d749d43285f9a16424848c33c9fb9"
         }
     }
