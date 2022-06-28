@@ -9,11 +9,11 @@
   "architecture": {
     "64bit": {
       "url": "https://dl.google.com/release2/chrome/acskvtgddv23fo74thv6n75d7kvq_103.0.5060.66/103.0.5060.66_chrome_installer.exe#/dl.7z",
-      "hash": "a766ef7c9af7598cc021fd120fcaf52772237c7de7591a00e75485cc14647422"
+      "hash": "7703cfe5629648bd3720c0b2043163eb2e27d359d32cb438ffc0fd338339f937"
     },
     "32bit": {
       "url": "https://dl.google.com/release2/chrome/ccfjooliezwvnoibcqg2clqjl4_103.0.5060.66/103.0.5060.66_chrome_installer.exe#/dl.7z",
-      "hash": "8a8087408e3142ae5b213838515b290e8b273b64f43cde224f40f6004e771e96"
+      "hash": "d35860babd8394376a19cc1ace5ecf887425999925ab65f0d650567c8a78a58d"
     }
   },
   "installer": {
